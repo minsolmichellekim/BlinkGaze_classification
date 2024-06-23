@@ -1,1 +1,1 @@
-# EOG_classification
+# Blink Gaze Classification
